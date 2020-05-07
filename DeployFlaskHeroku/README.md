@@ -1,4 +1,4 @@
-<h1> Deployment Of  Flask App on Azure  
+<h1> Deployment Of  Flask App on Heroku
  <img src='Images/heroku.png' width=70 height=35></h1>
 
  >Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. It is generally considered to be easy-to-use. But it’s most beneficial to businesses in specific situations. Heroku has a free service model for small projects, but tiered service packages exist for cases where more complex business needs must be addressed.
