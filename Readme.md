@@ -4,7 +4,7 @@
 
 >Don''t Know How to Deploy?
 
-<img src= 'Images/index.jpeg'> </img>
+<img src= 'Images/index.jpeg' height=270 > </img>
 
 > Don't worry . This Repo Contains Deployment of Machine Learning Models on Various cloud services like Azure, Heroku, AWS,GCP etc.
 
@@ -24,7 +24,7 @@ Deployment of an ML-model simply means the integration of the model into an exis
 
 <h2> Deployment  Types </h2>
 
-<img src='Images/meme.jpeg'> </img>
+<img src='Images/meme.jpeg' height=270> </img>
 
 <h3> 1. Deploying Models in PAAS </h2>
 
